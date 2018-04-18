@@ -1,0 +1,55 @@
+@charset "UTF-8";
+body{
+	magin:0;
+	padding:0;
+}
+.top{
+	height:300px;
+	width:100%
+	align="center";
+}
+.form{
+	width:800px;
+	align:center;
+	margin: 10px 50px;
+}
+.h1 {
+	text-align: center;
+	margin: 50px 0;
+	align="center";
+	background:blue;
+	font-family: "楷体";
+	font-weight: bold;
+	font-size: 35px;
+}
+.image{
+	max-width: 100% !important;
+	position:absolute;
+}
+.password {
+	color: blue;
+	border-radius: 3px;
+	margin: 10px 0;
+}
+.id{
+	color: blue;
+	border-radius: 3px;
+	margin: 10px 0;
+}
+.name{
+	color: blue;
+	border-radius: 3px;
+	margin: 10px 0;
+}
+.input{
+    width:200px; 
+    height:30px;
+    position:absoulte;
+    left:300px;          
+    top:200px; 
+}
+.box{width:2000px;margin:100px auto;}
+.box .left{float:left;}
+.box .left img{width:1000px;height:300px;}
+.box .right li{line-height:24px;font-size:14px;}
+.box .right{float:right;}
